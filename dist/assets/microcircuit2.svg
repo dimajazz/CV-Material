@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+  class="svg-microcircuit" 
+  width="100%" 
+  height="100%" 
+  style="position: absolute; inset: 0;" 
+  preserveAspectRatio="none" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" 
+  viewBox="0 0 245 925"
+>
+  <defs>
+    <symbol id="arc-indicator" viewBox="0 0 12.48 20.34">
+      <path d="m.18,16.72C1.17,11.15,3.28,6.1,6.67,1.55c1.25-1.68,1.99-2.25,3.87-.42,2.21,2.14,2.69,3.61.56,6.14-2.26,2.67-3.52,6.05-3.94,9.51-.33,2.71-1.1,4.17-4.03,3.33-3.27.83-3.39-1-2.96-3.39Z" style="stroke-width: 0px;"/>
+    </symbol>
+    <symbol id="circle-indicator" viewBox="0 0 26.43 26.43">
+      <circle cx="13.21" cy="13.21" r="13.21" style="stroke-width: 0px;"/>
+    </symbol>
+    <symbol id="indicator-base" viewBox="0 0 26 26">
+      <path d="m13,0C5.82,0,0,5.82,0,13s5.82,13,13,13,13-5.82,13-13S20.18,0,13,0Zm0,20c-3.87,0-7-3.13-7-7s3.13-7,7-7,7,3.13,7,7-3.13,7-7,7Z" style="stroke-width: 0px;"/>
+    </symbol>
+  </defs>
+  <g class="microcircuit">
+    <rect width="250" height="940" style="fill: none; stroke-width: 0px;"/>
+    <path class="signal-lines-base" d="m164.18,639v174m58.5-247v65.59c0,6.68-2.65,13.09-7.38,17.82l-18.5,18.5c-4.73,4.73-7.38,11.13-7.38,17.82v42.27c0,6.68,2.65,13.09,7.38,17.82l17.76,17.76c4.76,4.76,7.42,11.22,7.38,17.95l-.44,68.48m-112-80.5l23-21c7-7,8.37-12.47,8.37-19.35v-46.53c0-5.89-2.5-11.5-6.88-15.44l-23.44-21.07c-4.38-3.94-6.88-9.55-6.88-15.44v-21.67m-6.17,99.5l-33.88,35.78c-3.29,3.47-5.12,8.07-5.12,12.85v36.46c0,5.17,2.15,10.11,5.92,13.65l18.35,14.69c3.78,3.53,5.92,8.47,5.92,13.65v39.43m-67.83-37v-109.05c0-13.59,5.4-16.63,15.01-26.24l15.64-15.64c7.29-7.29,7.98-18.87,1.62-26.97l-27.92-25.56c-2.82-3.59-4.35-8.01-4.35-12.57v-30.91M103.48,131.5l.02,61.51c0,2.56-1,5.02-2.78,6.85l-25.36,26.09c-3.79,3.9-3.69,10.12.21,13.9l22.58,21.89c1.91,1.85,2.99,4.4,2.99,7.05v19.7m33.75,29v-31.63c-.01-3.35,1.32-6.57,3.69-8.94l27.98-27.99c4.94-4.94,4.94-12.95,0-17.88l-30.36-30.35c-2.37-2.37-3.7-5.59-3.71-8.94l-.02-21.76m85.08-21.5v21.45c0,3.52-1.4,6.89-3.89,9.38l-18.78,18.78c-5.19,5.19-5.18,13.6.02,18.78l16.42,16.36c3.69,3.69,5.77,8.7,5.77,13.92v57.84M53.76,199.76l-22.21,22.21c-5.81,5.81-9.08,13.7-9.08,21.92v110.11" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    <g class="signal-lines">
+      <line class="signal-line" x1="164.18" y1="639" x2="164.18" y2="813" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m221.5,850l.44-68.48c.04-6.73-2.62-13.2-7.38-17.95l-17.76-17.76c-4.73-4.73-7.38-11.13-7.38-17.82v-42.27c0-6.68,2.65-13.09,7.38-17.82l18.5-18.5c4.73-4.73,7.38-11.13,7.38-17.82v-65.59" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m109.5,769.5l23-21c7-7,8.37-12.47,8.37-19.35v-46.53c0-5.89-2.5-11.5-6.88-15.44l-23.44-21.07c-4.38-3.94-6.88-9.55-6.88-15.44v-21.67" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 4.74px;"/>
+      <path class="signal-line" d="m97.5,708.5l-33.88,35.78c-3.29,3.47-5.12,8.07-5.12,12.85v36.46c0,5.17,2.15,10.11,5.92,13.65l18.35,14.69c3.78,3.53,5.92,8.47,5.92,13.65v39.43" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 4.83px;"/>
+      <path class="signal-line" d="m20.87,838v-109.05c0-13.59,5.4-16.63,15.01-26.24l15.64-15.64c7.29-7.29,7.98-18.87,1.62-26.97l-27.92-25.56c-2.82-3.59-4.35-8.01-4.35-12.57v-30.91" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m103.48,131.5l.02,61.51c0,2.56-1,5.02-2.78,6.85l-25.36,26.09c-3.79,3.9-3.69,10.12.21,13.9l22.58,21.89c1.91,1.85,2.99,4.4,2.99,7.05v19.7" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m132.48,170l.02,21.76c0,3.35,1.33,6.57,3.71,8.94l30.36,30.35c4.94,4.94,4.94,12.94,0,17.88l-27.98,27.99c-2.37,2.37-3.7,5.59-3.7,8.94v31.63" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m217.1,305v-57.84c0-5.22-2.07-10.23-5.77-13.92l-16.42-16.36c-5.2-5.18-5.2-13.59-.02-18.78l18.78-18.78c2.49-2.49,3.89-5.86,3.89-9.38v-21.45" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <path class="signal-line" d="m22.48,354v-110.11c0-8.22,3.27-16.11,9.08-21.92l22.21-22.21" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+    </g>
+    <g class="microchip">
+      <path d="m213.55,443.79c-3.18-.16-6.37-.03-9.56-.03-6.22,0-12.45-.18-18.66.06-4.67.18-4.63-3.86-4.99-6.19-.42-2.75,2.89-1.37,4.09-1.18,10.09,1.55,18.04-1.6,23.92-9.99.6-.86,1.49-1.51,2.24-2.26,3.42-3.39,6.27-3.96,9.21-1.7-.52-1.39-.82-2.89-.82-4.44,0-2.56.8-4.98,2.14-7.04-3.32,2.11-6.78,3.82-11.23,3.55-1.05-.06-2.46,1.72-3.3,2.93-6.92,10-16.46,13.18-28.2,11.45-2.27-.33-3.79-.76-5.23-2.68-6.7-8.93-15.27-15.59-25.78-19.41-3.12-1.14-3.14-2.98-3.17-5.52-.03-2.48.24-4.19,3.12-5.07,4.77-1.45,9.41-3.33,14.05-5.16,15.44-6.09,12.72-1.9,12.93-18.6.02-1.46.12-2.68.63-3.78-.8.12-1.61.18-2.42.18-2.69,0-5.18-.58-7.42-1.61,1.35,1.4,1.78,2.96,1.6,5.1-.18,2.11-.02,4.25-.04,6.37,0,1.21.03,2.33-1.53,2.89-6.8,2.46-13.55,5.04-20.4,7.6-.53-3.8-.67-4.85.64-6.27-1.58.47-3.22.72-4.88.72-1.81,0-3.52-.27-5.14-.75,1.41,2.45,1.28,5.15,1.23,8.12-.05,3.03-.13,6.08.03,9.1.13,2.48-.35,3.59-3.23,3-5.24-1.09-10.59-1.12-15.82-.02-3.2.67-3.46-.62-3.42-3.24.12-9.56.11-19.12,0-28.68-.01-1.09.15-1.95.54-2.69-1.13.23-2.29.36-3.45.36-1.95,0-3.8-.3-5.52-.86.65.93.83,1.98.82,3.35-.09,9.41-.04,18.82-.04,28.23q0,6.6-7.26,8.27c-.06-.58-.26-1.17-.16-1.7,2.33-12.33-2.45-21.47-12.14-28.95-3.39-2.61-3.99-5.33-2.3-8.12-.66.08-1.32.12-1.98.12-3.26,0-6.25-.85-8.83-2.32,2.05,3.2,3.59,6.57,3.34,10.89-.06,1.07,1.64,2.54,2.85,3.36,10.24,6.96,13.49,16.69,11.58,28.55-.02.15-.02.31,0,.45.25,1.82-.39,3.06-1.94,4.19-9.42,6.89-16.29,15.83-20.29,26.77-1.15,3.15-3.24,2.45-5.39,2.61-2.28.18-3.96-.11-4.82-2.76-1.59-4.89-3.47-9.68-5.34-14.47-6.01-15.35-1.9-12.62-18.66-12.82-1.58-.02-2.85-.21-3.98-.83.34,1.33.57,2.71.63,4.13.08,1.72-.14,3.39-.59,4.98,1-.6,2.14-.83,3.61-.68,1.95.2,3.96.21,5.91,0,2.4-.26,3.51.77,4.27,2.94,1.83,5.29,3.89,10.49,5.77,15.77.4,1.12,1.96,2.87.26,3.43-1.73.57-4.16,1.31-5.79-.83-.32-.42-.61-.86-.9-1.3.96,1.81,1.51,3.85,1.51,6,0,2.43-.72,4.73-1.94,6.72,2.82-2.85,6.03-2.58,9.6-2.58,3.34,0,6.68.12,10.01-.04,2.31-.11,2.9.68,2.46,2.89-1.07,5.41-1.13,10.88-.05,16.28.56,2.78-.31,3.35-2.91,3.31-9.56-.13-19.12-.12-28.68,0-1.49.02-2.62-.21-3.6-.92.42,1.26.65,2.59.65,3.97,0,2.61-.82,5.08-2.21,7.16,1.5-2.32,3.2-2.61,5.56-2.58,8.95.08,17.91.03,26.86.03q6.93,0,9.65,8.34c-14.29-4.39-23.82,1.82-31.92,11.97-2.88,3.61-7.33,2.99-10.13-.67-.11-.15-.24-.28-.35-.42,1.39,2.08,2.21,4.55,2.21,7.17,0,1.98-.48,3.86-1.31,5.57,1.4-1.6,2.91-2.21,5.14-1.87,3.98.6,7.25-.7,9.5-3.99,6.68-9.74,15.9-13.13,27.33-11.2.3.05.61.05.91,0,2.2-.34,3.54.62,4.87,2.4,6.78,9.08,15.47,15.83,26.13,19.68,3.3,1.19,2.7,3.32,2.95,5.66.29,2.73-.76,4-3.33,4.89-7.57,2.63-15.02,5.6-22.57,8.29-2.99,1.07-4.41,2.86-4.27,6.09.15,3.48-.07,6.98.07,10.47.06,1.44-.18,2.52-.92,3.47,1.47-.59,3.06-.93,4.72-.93s3.27.34,4.75.94c-.74-.9-1.05-1.93-.92-3.37.18-2.11.25-4.27-.01-6.36-.36-2.86,1.03-3.98,3.48-4.81,5.01-1.7,9.91-3.73,14.91-5.45,1.21-.41,3.08-2.3,3.79-.27.52,1.51,1.22,3.77-.48,5.35,1.4-.53,2.89-.83,4.45-.83,2.06,0,4.01.51,5.76,1.4-1.82-2.39-1.99-5.02-1.8-8.16.18-3.02.2-6.08-.01-9.1-.21-3.06.31-4.38,3.92-3.57,4.75,1.07,9.7,1,14.47.04,3.22-.64,4.21-.11,4.12,3.34-.23,9.4-.17,18.82-.02,28.22.02,1.33-.21,2.32-.75,3.18,1.45-.57,3-.89,4.61-.89s3.02.29,4.4.81c-.52-.91-.68-1.95-.66-3.26.1-9.26.04-18.51.04-27.77,0-7.14.09-7.25,8.24-8.52-4.48,13.89,2.13,23.28,12.15,31.45,2.78,2.26,2.91,5.55,1,8.22.43-.17.86-.33,1.31-.46l3.49-.47c1.63-.06,3.16.26,4.6.93-.65-.97-.9-2.07-.69-3.51.58-4.1-.6-7.58-4.07-9.92-9.87-6.66-12.76-15.98-11.23-27.38.35-2.57.75-4.38,2.95-6.02,8.69-6.5,15.2-14.84,18.92-25.03,1.26-3.43,3.22-3.53,6.1-3.73,3.18-.22,4.09,1.39,4.93,3.93,1.46,4.45,3.17,8.83,4.91,13.18,6.22,15.59,1.8,12.81,19,13.02,1.4.02,2.54.17,3.55.67-.49-1.36-.77-2.8-.77-4.31,0-1.63.33-3.2.91-4.66-1.23.68-2.6.82-4.27.69-1.96-.15-3.95-.11-5.92,0-1.77.09-2.67-.55-3.29-2.3-2.07-5.84-4.31-11.63-6.55-17.41-.72-1.85-.57-2.58,1.75-2.8,1.79-.17,2.96.34,3.96,1.23-.67-1.56-1.05-3.27-1.05-5.05s.42-3.62,1.15-5.24c-2.17,1.45-4.55,1.61-7.36,1.48-3.48-.16-6.99-.17-10.47.01-2.51.13-3.15-.7-2.66-3.12,1.06-5.25,1.1-10.59.06-15.83-.59-2.98.26-3.6,3.1-3.55,9.1.16,18.21.14,27.32.01,1.62-.02,2.96.1,4.15.71-.52-1.4-.82-2.89-.82-4.45,0-1.71.36-3.36.99-4.87-1.79.98-3.76,1.11-6.08.99Zm-88.13,71.55c-28.81.03-52.7-23.81-52.73-52.65-.03-28.81,23.82-52.7,52.65-52.73,28.81-.03,52.7,23.81,52.73,52.65.03,28.81-23.82,52.7-52.65,52.73Zm45.07-52.71c.02,24.85-20.39,45.22-45.2,45.12-24.9-.1-45.23-20.56-45.01-45.31.22-24.8,20.21-44.76,44.97-44.89,24.8-.14,45.22,20.21,45.23,45.09Zm-7.6.07c.02-20.84-16.62-37.53-37.46-37.55-20.84-.02-37.53,16.62-37.55,37.45-.02,20.84,16.62,37.53,37.46,37.55,20.84.02,37.53-16.62,37.55-37.45Z" style="stroke-width: 0px;"/>
+      <g>
+        <use width="26" height="26" transform="translate(128.11 360.61) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(159.09 346.03) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(98.04 346.03) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(68.88 346.03) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(9.66 405.25) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(24.24 435.32) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(9.66 465.39) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(9.66 495.45) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(218.31 405.25) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(218.31 435.32) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(201 465.39) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(218.31 495.45) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(159.09 555.59) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(128.11 555.59) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(98.04 541.01) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(68.88 555.59) scale(.91)" xlink:href="#indicator-base"/>
+        <use width="26" height="26" transform="translate(112 450)" xlink:href="#indicator-base"/>
+      </g>
+      <g class="indicators">
+        <use width="26.43" height="26.43" transform="translate(133.58 366.07) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(164.55 351.5) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(103.51 351.5) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(74.35 351.5) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(15.13 410.72) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(29.71 440.79) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(15.13 470.85) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(15.13 500.92) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(74.35 561.06) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(103.51 546.48) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(133.58 561.06) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(164.55 561.06) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(223.78 500.92) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(206.47 470.85) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(223.78 440.79) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(223.78 410.72) scale(.48)" xlink:href="#circle-indicator"/>
+        <use width="26.43" height="26.43" transform="translate(118 456) scale(.53)" xlink:href="#circle-indicator"/>
+      </g>
+      <g class="indicators-loading">
+        <use width="12.48" height="20.34" transform="translate(145.17 432.81) rotate(90) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(160.63 455.6) rotate(135) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(155.47 483.26) rotate(-180) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(132.67 498.73) rotate(-135) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(105.01 493.53) rotate(-90) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(89.55 470.74) rotate(-45) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(94.71 443.07) scale(.91)" xlink:href="#arc-indicator"/>
+        <use width="12.48" height="20.34" transform="translate(117.51 427.61) rotate(45) scale(.91)" xlink:href="#arc-indicator"/>
+      </g>
+    </g>
+    <g>
+      <use width="26" height="26" transform="translate(88 285)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(10 352)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(122 314)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(204 302)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(204 126)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(119 147)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(91 108)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(49 179)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(76 874)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(93 689)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(8 568)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(91 586)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(210 544)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(8 835)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(89 763)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(151 810)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(209 848)" xlink:href="#indicator-base"/>
+      <use width="26" height="26" transform="translate(151 617)" xlink:href="#indicator-base"/>
+    </g>
+    <g class="indicators microcircuit-indicators">
+      <use width="26.43" height="26.43" transform="translate(209.83 131.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(124.83 152.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(96.83 113.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(54.83 184.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(93.83 290.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(127.83 319.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(15.83 357.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(209.83 307.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(215.83 549.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(96.83 591.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(156.83 622.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(13.83 573.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(98.83 694.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(94.83 768.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(156.83 815.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(214.83 853.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(81.83 879.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+      <use width="26.43" height="26.43" transform="translate(13.83 840.85) scale(.55 .53)" xlink:href="#circle-indicator"/>
+    </g>
+  </g>
+</svg>
