@@ -26,7 +26,7 @@
     <g class="signal-lines">
       <path class="signal-line" d="m40.9,316.11v30.38c0,7.46,2.96,14.61,8.24,19.88l45.76,45.76c5.27,5.27,8.24,12.43,8.24,19.88v117.34c0,7.46-2.96,14.61-8.24,19.88l-23.53,23.53c-5.27,5.27-8.24,12.43-8.24,19.88v27.94" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
       <path class="signal-line" d="m226.82,320.68l-.51,29.32c-.1,5.57-2.4,10.87-6.41,14.74l-50.8,49.05c-4.01,3.87-6.31,9.17-6.41,14.74l-1.36,77.88c-.1,5.77,2.18,11.33,6.3,15.37l23.47,22.99c4.12,4.04,6.4,9.6,6.3,15.37l-1.2,68.53" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
-      <line class="signal-line" x1="23.29" y1="795.28" x2="23.29" y2="492.5" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
+      <line class="signal-line" x1="23.29" y1="492.5" x2="23.29" y2="795.28" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
       <path class="signal-line" d="m60.86,852.85l33.13,33.13c5.52,5.52,13.02,8.63,20.83,8.63h30.39c7.81,0,15.31-3.1,20.83-8.63l32.22-32.22" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
       <line class="signal-line" x1="132" y1="591" x2="132" y2="374" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
       <path class="signal-line" d="m63.5,519.09v-61.58c0-6.12-2.43-11.99-6.76-16.31l-27.22-27.22" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5px;"/>
